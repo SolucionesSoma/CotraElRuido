@@ -442,7 +442,7 @@ export default function ContraElRuidoLanding() {
   {/* Fondo decorativo */}
   <div className="absolute inset-0 z-0 opacity-80">
     <GreenBlobs />
-    <LeafSprinkles seed={21} count={12} />
+    <LeafSprinkles seed={12} count={12} />
   </div>
 
   {/* Contenido */}
@@ -721,7 +721,7 @@ export default function ContraElRuidoLanding() {
   {/* Fondo decorativo */}
   <div className="absolute inset-0 z-0 opacity-75">
     <GreenBlobs />
-    <LeafSprinkles seed={31} count={10} />
+    <LeafSprinkles seed={28} count={10} />
   </div>
 
   {/* Contenido */}
